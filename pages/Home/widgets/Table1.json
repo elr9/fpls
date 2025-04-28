@@ -321,7 +321,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 46,
   "searchKey": "",
-  "tableData": "{{getAccounts.data.list}}",
+  "tableData": "{{ getLatestBalances.data }}",
   "textSize": "0.875rem",
   "topRow": 10,
   "totalRecordsCount": 0,
